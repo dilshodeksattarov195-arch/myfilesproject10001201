@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helpervalidate",
+        "uuid": 9173238,
+        "checksum": "kn6et"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
